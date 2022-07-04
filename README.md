@@ -1,4 +1,4 @@
-# Hover_Quest_Bet
+# Hover_Quest_Beta
 
 DEVELOPMENT VERSION OF HOVER QUEST
 
